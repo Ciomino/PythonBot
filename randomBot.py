@@ -51,4 +51,4 @@ async def shuffle(ctx, from_channel: discord.VoiceChannel, *to_channels: discord
 
 
 
-bot.run('MTI0NzkzNDg1MjAzMzE1MTAxNw.GQqOsR.Cut2I2G7kVhaYzvPLn3hYtorSvUOLQv4GOoVp8')
+bot.run('TOKEN')
